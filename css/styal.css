@@ -1,0 +1,471 @@
+body{
+  margin: 0;
+
+
+}
+
+
+h1{
+  margin-top:0;
+  width: 50%;
+  padding-top: 50px;
+  padding-left: 50px;
+  font-family: 'Righteous', cursive;
+  color: #42dee1;
+  font-size: 4rem;
+}
+
+.pageno1{
+  width: 1348px;
+  height: 768px;
+  top: 0;
+  background-color: #cccccc;
+  background-image: linear-gradient(red, yellow, green);
+   position: relative;
+
+
+}
+
+.pageno2{
+  width: 1348px;
+  height: 768px;
+  top: 0;
+  background-image: url("C:/Users/User/Desktop/Web Development/New Project 2/image/heli/sp.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+  }
+
+
+
+
+
+
+
+.pageno1-p1{
+ position: absolute;
+ height: 250px;
+ width: 250px;
+ top:320px;
+ left:100px;
+}
+.pageno1-p2{
+ position: absolute;
+ height: 400px;
+ width: 400px;
+ top: 90px;
+ left:650px;
+
+}
+
+.pageno1-p3{
+ position: absolute;
+ height: 250px;
+ width: 250px;
+ top: 300px;
+ left:360px;
+}
+
+.pageno1-p4{
+ position: absolute;
+ height: 200px;
+ width: 1348px;
+ bottom: 0px;
+ left:0;
+
+}
+
+.profileheadig{
+margin-top: 0;
+letter-spacing: 2px;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Philosopher', sans-serif;
+padding-top: 50px;
+text-decoration: underline;
+
+}
+.profile1{
+  position: absolute;
+  width: 40%;
+  left: 100px;
+  top: 50px;
+  font-size: 25px;
+  letter-spacing: 2px;
+  text-align: left;
+  color : #f54291
+
+
+}
+.profile2{
+    position: absolute;
+    width: 40%;
+    left: 800px;
+    top: 100px;
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-align: left;
+    color : #ff0000
+
+}
+.footimg{
+    position: absolute;
+    bottom: 0;
+    left :0px;
+    height: 100px;
+    width: 1348px
+
+}
+
+
+/* Page nO 3 ONLY */
+
+
+.pageno3{
+  width: 1348px;
+  height: 768px;
+  top: 0;
+  background-color: green;
+  position: relative;
+}
+
+
+.pageno3-left1{
+ position: absolute;
+ display: inline-block;
+ width: 674px;
+ height: 210px;
+ background-color: #f4efd3;
+ left: 0;
+ top:0;
+}
+.pageno3-right1{
+position: absolute;
+display: inline-block;
+width: 674px;
+height: 210px;
+background-image: url("C:/Users/User/Desktop/Web Development/New Project 2/image/heli/1.png");
+background-repeat: no-repeat;
+background-size: cover;
+right: 0;
+top:0;
+
+}
+
+.pageno3-mid-left1{
+position: absolute;
+display: inline-block;
+width: 674px;
+height: 210px;
+background-image: url("C:/Users/User/Desktop/Web Development/New Project 2/image/heli/3.png");
+background-repeat: no-repeat;
+background-size: cover;
+left:  0;
+top:210px;
+}
+
+.pageno3-mid-right1{
+position: absolute;
+display: inline-block;
+width: 674px;
+height: 210px;
+background-color: #f4efd3;
+right: 0;
+top:210px;
+
+}
+.pageno3-btm-left1{
+position: absolute;
+display: inline-block;
+width: 674px;
+height: 210px;
+background-color : #f4efd3 ;
+left: 0;
+top:420px;
+
+}
+
+.pageno3-btm-right1{
+position: absolute;
+display: inline-block;
+width: 674px;
+height: 210px;
+background-image: url("C:/Users/User/Desktop/Web Development/New Project 2/image/heli/3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+right: 0;
+top:420px;
+
+}
+
+.ppageno3{
+  padding-left: 15px;
+  line-height: 2;
+  font-family: 'Kanit Semi-Bold', sans-serif;
+  font-size: 1rem;
+
+}
+
+
+h3{
+
+  font-family: 'Calistoga', cursive;
+  color: #c70d3a;
+  font-size: 2rem;
+}
+
+
+
+.btm-photo1{
+ position: absolute;
+  height: 138px;
+  width: 1348px;
+  margin-top: 630px;
+}
+
+
+/* Page nO 4 ONLY */
+
+.pageno4{
+  width: 1348px;
+  height: 768px;
+  position: relative;
+  top: 0;
+  background-color: #fbc99d;
+
+}
+
+.pageno4-1{
+ position: absolute;
+ display: inline;
+background-color: #da2d2d;
+height: 210px;
+width: 674px;
+
+
+}
+
+.pageno4-2{
+  display: inline-block;
+  background-color: red;
+  height: 210px;
+  position: absolute;
+  right: 0;
+  width: 674px;
+
+
+
+
+}
+
+.pageno4-3{
+  position: absolute;
+  display: inline-block;
+  background-color: blue;
+  height: 210px;
+  width: 674px;
+  top: 210px;
+  left:0;
+}
+
+.pageno4-4{
+  position: absolute;
+  display: inline-block;
+  background-color: #c355f5;
+  height: 210px;
+  width: 674px;
+  top: 210px;
+  right: 0;
+}
+
+.pageno4-5{
+  position: absolute;
+  display: inline-block;
+  background-color: #4b8e8d;
+  height: 174px;
+  width: 674px;
+  top: 420px;
+  left:0px;
+}
+
+.pageno4-6{
+  position: absolute;
+  display: inline-block;
+  background: white;
+  height: 174px;
+  width: 674px;
+  top:420px;
+  right: 0px;
+}
+
+
+h2{
+  text-align: center;
+  font-family: 'Calistoga', cursive;
+  color: #ffffff;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+
+
+
+
+.padam{
+  width: 674px;
+  height: 210px;
+}
+
+.dhs{
+  width: 674px;
+  height: 210px;
+}
+
+.tem{
+  width: 674px;
+  height: 174px;
+}
+
+.pageno4p{
+  padding-left: 10px;
+  line-height: 2;
+  font-family: 'Kanit Semi-Bold', sans-serif;
+  font-size: 0.85rem;
+}
+
+
+
+.customer{
+  background-color: red;
+  margin-left: 619px;
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+
+
+}
+h4{
+
+  text-align: center;
+  font-family: 'Calistoga', cursive;
+  color: #f1fa3c;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pageno4-7{
+  position: relative;
+  background-color: #fbc99d;
+  height: 174px;
+  width: 1348px;
+  top: 594px;
+  left: 0;
+}
+
+.pageno4-7-1{
+  position: absolute;
+    height: 71.5px;
+  width: 449px;
+  background: blue;
+  left: 0;
+
+
+
+}
+
+.pageno4-7-2{
+  position: absolute;
+    height: 71.5px;
+  width: 449px;
+  left: 449px;
+  background: blue;
+
+}
+
+.pageno4-7-3{
+  position: absolute;
+  height: 71.5px;
+  width: 449px;
+  background: white;
+  right: 0;
+
+}
+
+.pageno4-7-4{
+  position: absolute;
+  height: 71.5px;
+  width: 449px;
+  background: yellow;
+  top: 102.5px;
+  left: 0;
+
+}
+
+.pageno4-7-5{
+  position: absolute;
+  height: 71.5px;
+  width: 449px;
+  background: green;
+  top: 102.5px;
+  left: 449px;
+
+}
+
+.pageno4-7-6{
+  position: absolute;
+    height: 71.5px;
+  width: 449px;
+  background: red;
+  top: 102.5px;
+  right: 0px;
+
+}
+
+.client{
+  height: 71.5px;
+  width: 449px;
+}
+
+
+.pageno5{
+  width: 1348px;
+  position: relative;
+  height: 768px;
+  top: 0;
+  background-color: #42dee1;
+
+}
+
+
+.btm-pagetop{
+ position: absolute;
+ height: 384px;
+ width: 1348px;
+ background-color: red;
+
+}
+
+.btm-pagebtm{
+position: absolute;
+position: absolute;
+height: 384px;
+width: 1348px;
+background-color: blue;
+top: 384px;
+left: 0;
+}
+
+.btmtopimg{
+  height: 384px;
+  width: 1348px;
+}
+.btmbtmimg{
+  height: 384px;
+  width: 1348px;
+
+}
